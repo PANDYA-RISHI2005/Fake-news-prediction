@@ -1,1 +1,3 @@
+#Fake-news-prediction
+
 This project is a machine learning-based Fake News Prediction system that classifies news articles as either real or fake. It uses natural language processing (NLP) techniques to clean and preprocess the text data, followed by vectorization methods like TF-IDF to convert text into numerical features. Several machine learning algorithms such as Logistic Regression, Naive Bayes, and Random Forest were trained and evaluated to find the most accurate model for this task. The goal is to help identify misinformation by analyzing the textual content of news articles. The project includes a well-structured pipeline for training, testing, and evaluating models, and can be extended with real-time data or integrated into web applications for practical use.
